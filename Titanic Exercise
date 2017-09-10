@@ -18,7 +18,7 @@ library(rpart)
 library(randomForest)
 library("DAAG")
 getwd()
-setwd("C:\Users\Ayushi Mona\Documents\Term IV\AMMA2017\Dataset") 
+setwd("C:\\Users\\Ayushi Mona\\Documents\\Term IV\\AMMA2017\\Dataset") 
 titanic_train_2<-read.csv('train.csv')
 titanic_train<-titanic_train_2
 titanic_train_3 <- read.csv('t
