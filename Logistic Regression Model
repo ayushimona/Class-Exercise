@@ -18,7 +18,7 @@ install.packages("InformationValue")
 library(InformationValue)
 cat("\014")
 getwd()
-setwd("C:\Users\Ayushi Mona\Documents\Term IV\AMMA2017\Data_2017") 
+setwd("C:\\Users\\Ayushi Mona\\Documents\\Term IV\\AMMA2017\\Data_2017") 
 df.client <- read.csv('bank_client.csv')
 str(df.client)
 
